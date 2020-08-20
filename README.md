@@ -1,1 +1,1 @@
-# Pokemon-Gacha-Random
+Learning props reactjs with Pokemon Random Game
